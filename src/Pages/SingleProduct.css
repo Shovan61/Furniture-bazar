@@ -1,0 +1,8 @@
+.mini-image {
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.active-border {
+    border: 2px solid orange;
+}

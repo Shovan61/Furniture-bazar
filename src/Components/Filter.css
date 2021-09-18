@@ -1,0 +1,15 @@
+.filter-span {
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+}
+
+.active-span {
+    color: red;
+}
+
+.color-box {
+    cursor: 'pointer';
+    height: '20px';
+    width: '20px';
+    border-radius: '50%';
+}
